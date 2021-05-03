@@ -1,0 +1,12 @@
+.nav-color{
+    background-color: #f8f5f1;
+  }
+a{
+   color: black;
+  }
+a:hover {
+  color:red;
+  }
+a:active {
+   color: yellow;
+}
